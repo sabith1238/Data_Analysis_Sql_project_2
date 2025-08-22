@@ -63,7 +63,7 @@ ________________________________________
 
 **📈 Visualization:** 
 
-<img src="images/2.png" alt="Average athelete age" width="80%" >
+<img src="images/2.png" alt="Average athelete age" width="50%" >
 
 
 📊 **Key Findings:**  
