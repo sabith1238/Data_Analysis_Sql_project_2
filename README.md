@@ -63,7 +63,7 @@ ________________________________________
 
 **📈 Visualization:** 
 
-<img src="images/2.png" alt="Average athelete age" width="100%">
+<img src="images/2.png" alt="Average athelete age" width="80%" >
 
 
 📊 **Key Findings:**  
@@ -78,7 +78,7 @@ ________________________________________
 
 **📈 Visualization:**
 
-<img src="images/3.png" alt="Average height weight of athletes" style="width: 100%; height: auto;">
+<img src="images/3.png" alt="Average height weight of athletes" style="width: 80%; height: auto;">
 
 
 📊 **Key Findings:**  
